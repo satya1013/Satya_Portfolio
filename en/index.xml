@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Satya Kumari</title>
+    <link>https://satya1013.github.io/satya_portfolio/en/</link>
+    <description>Recent content in Data Science Portfolio on Satya Kumari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://satya1013.github.io/satya_portfolio/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://satya1013.github.io/satya_portfolio/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://satya1013.github.io/satya_portfolio/en/contact/</guid>
+      <description>   Platform URL     Website: https://kennethjee.com/   LinkedIn: https://www.linkedin.com/in/satya-kumari-639997207/   Kaggle: https://www.kaggle.com/satya1013   GitHub: https://github.com/satya1013    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Satya Kumari</title>
+    <link>https://satya1013.github.io/Satya_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Satya Kumari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://satya1013.github.io/Satya_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project I: Spotfy Data Analysis</title>
+      <link>https://satya1013.github.io/Satya_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://satya1013.github.io/Satya_Portfolio/post/project-1/</guid>
+      <description>Statistical techniques and visualization were considered for better understanding of data. Time-series Analysis using Python, NumPy, Seaborn,Matplotlib. Trained unsupervised model to differentiate super-Genre. trained supervised model to predict popularity of the songs.   Graph from project   Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
